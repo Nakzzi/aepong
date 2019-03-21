@@ -113,8 +113,8 @@ header #header-bar>.row {
 }
 
 #main .menu-wrapper>.header {
-	background: linear-gradient(45deg, var(--mainColor), var(--mainColor4), var(--mainColor6);
-        border-radius: 10px 10px 0 0;
+	background: -webkit-linear-gradient(45deg, var(--mainColor), var(--mainColor4), var(--mainColor6);
+	border-radius: 10px 10px 0 0;
 }
 
 #main .menu-wrapper>a>em,
