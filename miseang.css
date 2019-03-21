@@ -6,6 +6,6 @@
     font-style: normal; 
 }
 
-* {
-    font-family: 'SDMiSaeng';
+body {
+    font-family: 'SDMiSaeng'; font-size: 200% !important;
 }
