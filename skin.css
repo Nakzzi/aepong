@@ -1,12 +1,12 @@
 ﻿/* 사용자 설정 부분 */
 :root {
-	   --bgColor: #f0f0f0;   /* 배경 색 */
-	 --mainColor: #777777;   /* 메인 컬러 */
-	--mainColor5: #77777755; /* 공지, 인기글 hover */
-	--mainColor3: #77777733; /* 공지, 인기글 */
-	--mainColor2: #77777722; /* 트게더 메뉴, 게시글 hover */
-	--before: ""; /* 접속자 수 앞 문구 */
-	--after: "";  /* 접속자 수 뒤 문구 */
+	   --bgColor: #f5a2ff;   /* 배경 색 */
+	 --mainColor: #988off;   /* 메인 컬러 */
+	--mainColor5: #c77eff55; /* 공지, 인기글 hover */
+	--mainColor3: #f5a2ff33; /* 공지, 인기글 */
+	--mainColor2: #7fd7ff22; /* 트게더 메뉴, 게시글 hover */
+	--before: "마법을 공부중인"; /* 접속자 수 앞 문구 */
+	--after: "명의 마법단";  /* 접속자 수 뒤 문구 */
 }
 
 /* 모든 항목 focus시 아웃라인 제거 */
@@ -34,19 +34,6 @@ header {
 	padding: 0.5em 0 0.5em 0;
 }
 
-/* 트게더 로고 ( 없으면 주석처리 하세요 ) */
-header .row>div:nth-child(1)>a {
-	display: block;
-	width: var(--logoWidth);
-	height: 50px;
-	background: var(--logoURL) no-repeat;
-	background-size: auto 50px;
-}
-
-/* 기본 트게더 로고 제거 ( 없으면 주석처리 하세요 ) */
-header .row>div:nth-child(1) > a > img {
-	display: none;
-}
 
 /* 검색 창 */
 header #right-search-form>input[type='text'] {
