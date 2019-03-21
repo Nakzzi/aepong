@@ -1,7 +1,7 @@
 ﻿/* 사용자 설정 부분 */
 :root {
-	   --bgColor: #dab5ff;   /* 배경 색 */
-	 --mainColor: #988off;   /* 메인 컬러 */
+	   --bgColor: #988off;   /* 배경 색 */
+	 --mainColor: #dab5ff;   /* 메인 컬러 */
 	--mainColor5: #c77eff55; /* 공지, 인기글 hover */
 	--mainColor3: #f5a2ff33; /* 공지, 인기글 */
 	--mainColor2: #7fd7ff22; /* 트게더 메뉴, 게시글 hover */
