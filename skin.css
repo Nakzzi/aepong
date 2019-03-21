@@ -113,7 +113,7 @@ header #header-bar>.row {
 }
 
 #main .menu-wrapper>.header {
-	background: linear-gradient(45deg, var(--mainColor), var(--mainColor4), var(--mainColor6);
+	background: var(--mainColor);
 }
 
 #main .menu-wrapper>a>em,
