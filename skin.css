@@ -5,8 +5,8 @@
 	--mainColor5: #c77fff55; /* 공지, 인기글 hover */
 	--mainColor3: #f5a1ff33; /* 공지, 인기글 */
 	--mainColor2: #c77fff22; /* 트게더 메뉴, 게시글 hover */
-       /* --mainColor4: #A569E8;  트게더 메뉴, 그라데이션 */
-       /* --mainColor6: #AD99FF; /* 트게더 메뉴, 그라데이션2 */
+        --mainColor4: #A569E8; /* 트게더 메뉴, 그라데이션 */
+        --mainColor6: #AD99FF; /* 트게더 메뉴, 그라데이션2 */
         --before: "마법공부중인 마법단"; /* 접속자 수 앞 문구 */
 	--after: "명";  /* 접속자 수 뒤 문구 */
 }
@@ -46,7 +46,7 @@ header {
 } */
 
 /* 기본 트게더 로고 제거 ( 없으면 주석처리 하세요 ) */
-/* header .row>div:nth-child(1) > a > img {
+/*header .row>div:nth-child(1) > a > img {
 	display: none;
 } */
 
@@ -115,7 +115,6 @@ header #header-bar>.row {
 #main .menu-wrapper>.header {
 	background: var(--mainColor);
 }
-
 
 #main .menu-wrapper>a>em,
 #main .menu-wrapper>a>i.fa.fa-square {
