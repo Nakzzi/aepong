@@ -1,10 +1,10 @@
 ﻿/* 사용자 설정 부분 */
 :root {
-	   --bgColor: #988off;   /* 배경 색 */
-	 --mainColor: #dab5ff;   /* 메인 컬러 */
-	--mainColor5: #c77eff55; /* 공지, 인기글 hover */
-	--mainColor3: #f5a2ff33; /* 공지, 인기글 */
-	--mainColor2: #7fd7ff22; /* 트게더 메뉴, 게시글 hover */
+	   --bgColor: #f0f0f0;   /* 배경 색 */
+	 --mainColor: #777777;   /* 메인 컬러 */
+	--mainColor5: #77777755; /* 공지, 인기글 hover */
+	--mainColor3: #77777733; /* 공지, 인기글 */
+	--mainColor2: #77777722; /* 트게더 메뉴, 게시글 hover */
 }
 
 /* 모든 항목 focus시 아웃라인 제거 */
