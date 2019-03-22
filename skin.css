@@ -6,9 +6,6 @@
 	--mainColor3: #f5a1ff33; /* 공지, 인기글 */
 	--mainColor2: #c77fff22; /* 트게더 메뉴, 게시글 hover */
         --mainColor4: #a898ffbf; /* 트게더 메뉴, 그라데이션 */
-        --mainColor6: #8e3ff7b3; /* 트게더 메뉴, 그라데이션2 */
-	--mainColor7: #8e00ffa3; /* 트게더 메뉴, 그라데이션3 */
-	--mainColor8: #5800ff7a /* 트게더 메뉴, 그라데이션4 */
         --before: "마법공부중인 마법단"; /* 접속자 수 앞 문구 */
 	--after: "명";  /* 접속자 수 뒤 문구 */
 }
