@@ -96,6 +96,7 @@ header #header-bar>.row {
 	background: white;
 	border: 2px solid var(--mainColor);
 	width: 180px;
+	border-radius: 14px 14px 0 0;
 }
 
 #main .menu-wrapper > a {
@@ -114,6 +115,8 @@ header #header-bar>.row {
 
 #main .menu-wrapper>.header {
 	background: var(--mainColor);
+	border-radius: 10px 10px 0 0;
+	linear-gradient(90deg, #a898ffbf,#8e3ff7b3,#8e00ffa3 ,#5800ff7a)
 }
 
 #main .menu-wrapper>a>em,
