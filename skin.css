@@ -7,6 +7,8 @@
 	--mainColor2: #c77fff22; /* 트게더 메뉴, 게시글 hover */
         --mainColor4: #A569E8; /* 트게더 메뉴, 그라데이션 */
         --mainColor6: #AD99FF; /* 트게더 메뉴, 그라데이션2 */
+	--mainColor6: #AD99FF; /* 트게더 메뉴, 그라데이션3 */
+	--mainColor6: #AD99FF; /* 트게더 메뉴, 그라데이션4 */
         --before: "마법공부중인 마법단"; /* 접속자 수 앞 문구 */
 	--after: "명";  /* 접속자 수 뒤 문구 */
 }
@@ -116,7 +118,7 @@ header #header-bar>.row {
 #main .menu-wrapper>.header {
 	background: var(--mainColor);
 	border-radius: 10px 10px 0 0;
-	linear-gradient(90deg, #a898ffbf,#8e3ff7b3,#8e00ffa3 ,#5800ff7a)
+	linear-gradient(90deg, #a898ffbf,#8e3ff7b3,#8e00ffa3 ,#5800ff7a);
 }
 
 #main .menu-wrapper>a>em,
